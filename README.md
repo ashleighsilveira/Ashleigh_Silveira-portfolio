@@ -1,7 +1,8 @@
 # Ashleigh_Silveira-portfolio
 ## About Me
 ### Current Pursuits
-* Beginning Rice University Cybersecurity Bootcamp in August 2023
+* Rice University Cybersecurity Bootcamp in August 2023
+* Intro to Python on edx.org
 * Freelance Crossword puzzle construction
 ### Work Experience
 * English Language Arts teacher in Houston, Texas and briefly in Doha, Qatar
