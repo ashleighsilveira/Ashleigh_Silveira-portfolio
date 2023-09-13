@@ -1,7 +1,7 @@
 # Ashleigh_Silveira-portfolio
 ## About Me
 ### Current Pursuits
-* Rice University Cybersecurity Bootcamp in August 2023
+* Rice University Cybersecurity Bootcamp August 2023 - February 2024
 * Intro to Python on edx.org
 * Freelance Crossword puzzle construction
 ### Work Experience
